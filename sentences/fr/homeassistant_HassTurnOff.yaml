@@ -6,3 +6,4 @@ intents:
           - "éteint <name>"
           - "arrête <name>"
           - "stop <name>"
+          - "fermer <name>"
