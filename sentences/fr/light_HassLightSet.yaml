@@ -3,3 +3,6 @@ intents:
   HassLightSet:
     data:
       - sentences: []
+          - "règler lumière <name>"
+          - "règler lampe <name>"
+          - "règler ampoule <name>"
